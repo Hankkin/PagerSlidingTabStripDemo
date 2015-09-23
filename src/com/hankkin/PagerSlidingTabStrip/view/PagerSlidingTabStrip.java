@@ -53,7 +53,6 @@ public class PagerSlidingTabStrip extends HorizontalScrollView {
 			android.R.attr.textColor
 	};
 	// @formatter:on
-
 	private LinearLayout.LayoutParams defaultTabLayoutParams;
 	private LinearLayout.LayoutParams expandedTabLayoutParams;
 
